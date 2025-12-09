@@ -35,7 +35,7 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
 
 Exploratory Data Analysis (EDA)
 
-1. Top 10 Countries by Cancellation Rates
+**1. Top 10 Countries by Cancellation Rates**
 Map of top booking countries
 Stacked bar chart: Canceled vs Not Canceled for Top 10 countries
 ![Top_10_Booking_and_cancel](https://github.com/user-attachments/assets/aaa6098b-c922-4b2a-a1ae-9fbb2c34c904)
@@ -49,23 +49,23 @@ Stacked bar chart: Canceled vs Not Canceled for Top 10 countries
 5. Countries with high cancellation propensity should be flagged as High-Risk Market Segments for more controlled booking policies.
 
 
-2. Customer Type, Market Segment, Deposit Type, and Distribution Channel
+**2. Customer Type, Market Segment, Deposit Type, and Distribution Channel**
 
 Visualization: Multiple stacked bar charts
 
 ![Cancellation Factors](https://github.com/user-attachments/assets/e1cde0f0-cff9-4342-920b-8d0227d1f081)
 
 **Key Findings:**
-Customer Type: Transient customers have the highest cancellation rate (≈30%).
-Market Segment: Online TA (Online Travel Agencies) shows the highest cancellation rate (≈35%).
-Deposit Type:No-Refund bookings have extremely high cancellation rates (>95%).
-Distribution Channel:TA/TO (Travel Agents / Tour Operators) shows high cancellation rates (>30%).
+1. Customer Type: Transient customers have the highest cancellation rate (≈30%).
+2. Market Segment: Online TA (Online Travel Agencies) shows the highest cancellation rate (≈35%).
+3. Deposit Type:No-Refund bookings have extremely high cancellation rates (>95%).
+4. Distribution Channel:TA/TO (Travel Agents / Tour Operators) shows high cancellation rates (>30%).
 
 **Summary:**
-   Cancellation tendency depends heavily on: who books (customer type), how they book (distribution channel), payment conditions (deposit type)
-The riskiest groups are: Online TAม TA/TO, Transient customers and No-refund deposit bookings
+- Cancellation tendency depends heavily on: who books (customer type), how they book (distribution channel), payment conditions (deposit type)
+- The riskiest groups are: Online TAม TA/TO, Transient customers and No-refund deposit bookings
 
-3.Correlation
+**3.Correlation**
 
 Visualization: Pearson correlation table
 
@@ -78,8 +78,8 @@ Visualization: Pearson correlation table
    3. Stay in week night 
    4. Guests 
 
-4. Lead Time vs Cancellation
-
+**4. Lead Time vs Cancellation
+**
 Visualization: Histogram + Boxplot comparing Lead Time for Canceled vs Not Canceled bookings.
 
 ![Lead_time](https://github.com/user-attachments/assets/d0c9ceeb-c9f9-4bc4-9a61-d7b3a04bf02d)
@@ -91,7 +91,7 @@ Visualization: Histogram + Boxplot comparing Lead Time for Canceled vs Not Cance
 4. Long lead times may indicate uncertainty or flexible travel plans, increasing likelihood of cancellation.
 
 
-5. ADR (Average Daily Rate) vs Cancellation
+**5. ADR (Average Daily Rate) vs Cancellation**
 
 Visualization: Bar chart showing average ADR for each cancellation group
 Boxplot + histogram for ADR distribution
@@ -103,7 +103,7 @@ Boxplot + histogram for ADR distribution
 2. High-value bookings (ADR > 400) appear mostly in the canceled group.
 3. Suggests price sensitivity increases cancellation likelihood.
 
-6. Length of Stay (Week Nights) vs Cancellation
+**6. Length of Stay (Week Nights) vs Cancellation**
 
 Visualization: Boxplot comparing week-night stays and Histogram of stay durations
 
@@ -114,7 +114,7 @@ Visualization: Boxplot comparing week-night stays and Histogram of stay duration
 2. Short stays (1–5 nights) are more stable with lower cancellation percentages.
 3. Long-stay bookings exhibit higher risk.
 
-7. Total Guests vs Cancellation
+**7. Total Guests vs Cancellation**
 
 Visualization:Boxplot showing total guests vs cancellation and Histogram for group size distribution
 
@@ -125,7 +125,7 @@ Visualization:Boxplot showing total guests vs cancellation and Histogram for gro
 2. Very large groups (20–55 guests) appear only in the canceled group → potential data entry errors or high-risk group behavior.
 3. Total guests is a weak predictor, except for extreme outliers.
 
-8. Forecast of Monthly Booking Cancellations
+**8. Forecast of Monthly Booking Cancellations**
 
 Visualization: Line chart with forecast shading
 - Shows upward trend of cancellations
