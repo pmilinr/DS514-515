@@ -37,7 +37,7 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
      - **87,110 rows**
      - **30 columns**
 ---
-**Exploratory Data Analysis (EDA)**##
+**Exploratory Data Analysis (EDA)**
 
 ---
 **1. Top 10 Countries by Cancellation Rates**
@@ -85,7 +85,7 @@ Visualization: Pearson correlation table
    4. Guests 
 
 ---
-##**4. Lead Time vs Cancellation
+**4. Lead Time vs Cancellation
 **
 Visualization: Histogram + Boxplot comparing Lead Time for Canceled vs Not Canceled bookings.
 
