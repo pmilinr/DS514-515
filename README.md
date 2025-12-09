@@ -39,7 +39,8 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
 ---
 **Exploratory Data Analysis (EDA)**##
 
-##**1. Top 10 Countries by Cancellation Rates**
+---
+**1. Top 10 Countries by Cancellation Rates**
 Map of top booking countries
 Stacked bar chart: Canceled vs Not Canceled for Top 10 countries
 ![Top_10_Booking_and_cancel](https://github.com/user-attachments/assets/aaa6098b-c922-4b2a-a1ae-9fbb2c34c904)
@@ -51,8 +52,8 @@ Stacked bar chart: Canceled vs Not Canceled for Top 10 countries
 3. Countries like France, UK, Germany have high total bookings but lower cancellation percentages (<25%).
 4. Western Europe remains the hotel’s core market, but targeted strategies may be required for countries with unstable booking behavior.
 5. Countries with high cancellation propensity should be flagged as High-Risk Market Segments for more controlled booking policies.
----
 
+---
 **2. Customer Type, Market Segment, Deposit Type, and Distribution Channel**
 
 Visualization: Multiple stacked bar charts
@@ -68,9 +69,9 @@ Visualization: Multiple stacked bar charts
 **Summary:**
 - Cancellation tendency depends heavily on: who books (customer type), how they book (distribution channel), payment conditions (deposit type)
 - The riskiest groups are: Online TAม TA/TO, Transient customers and No-refund deposit bookings
----
 
-##**3.Correlation**
+---
+**3.Correlation**
 
 Visualization: Pearson correlation table
 
@@ -82,8 +83,8 @@ Visualization: Pearson correlation table
    2. ADR Total
    3. Stay in week night 
    4. Guests 
----
 
+---
 ##**4. Lead Time vs Cancellation
 **
 Visualization: Histogram + Boxplot comparing Lead Time for Canceled vs Not Canceled bookings.
@@ -96,7 +97,7 @@ Visualization: Histogram + Boxplot comparing Lead Time for Canceled vs Not Cance
 3. Guests who book far in advance tend to cancel more frequently.
 4. Long lead times may indicate uncertainty or flexible travel plans, increasing likelihood of cancellation.
 
-
+---
 **5. ADR (Average Daily Rate) vs Cancellation**
 
 Visualization: Bar chart showing average ADR for each cancellation group
@@ -108,9 +109,9 @@ Boxplot + histogram for ADR distribution
 1. Canceled bookings have ~18% higher ADR.
 2. High-value bookings (ADR > 400) appear mostly in the canceled group.
 3. Suggests price sensitivity increases cancellation likelihood.
----
 
-##**6. Length of Stay (Week Nights) vs Cancellation**
+---
+**6. Length of Stay (Week Nights) vs Cancellation**
 
 Visualization: Boxplot comparing week-night stays and Histogram of stay durations
 
@@ -120,9 +121,9 @@ Visualization: Boxplot comparing week-night stays and Histogram of stay duration
 1. Longer stays (14–22 nights) have extremely high cancellation rates (70–100%).
 2. Short stays (1–5 nights) are more stable with lower cancellation percentages.
 3. Long-stay bookings exhibit higher risk.
----
 
-##**7. Total Guests vs Cancellation**
+---
+**7. Total Guests vs Cancellation**
 
 Visualization:Boxplot showing total guests vs cancellation and Histogram for group size distribution
 
@@ -132,9 +133,9 @@ Visualization:Boxplot showing total guests vs cancellation and Histogram for gro
 1. Most cancellations occur among small groups (1–4 guests).
 2. Very large groups (20–55 guests) appear only in the canceled group → potential data entry errors or high-risk group behavior.
 3. Total guests is a weak predictor, except for extreme outliers.
----
 
-##**8. Forecast of Monthly Booking Cancellations**
+---
+**8. Forecast of Monthly Booking Cancellations**
 
 Visualization: Line chart with forecast shading
 - Shows upward trend of cancellations
@@ -149,9 +150,9 @@ Visualization: Line chart with forecast shading
 3. Although Portugal’s tourist high season = June–August, cancellations peak before the actual travel period.
 4. Customers may shop around during early months and cancel early bookings.
 5. Hotels should adjust deposit or lead-time policies in high-risk months.
----
 
-##**##Summary**
+---
+**##Summary**
 
 **Key behavioral patterns identified:**
 1. Lead Time and ADR are the strongest predictors of cancellation.
@@ -160,9 +161,9 @@ Visualization: Line chart with forecast shading
 4. Seasonal patterns show cancellation clusters during March–May.
 5. High-value bookings (high ADR) are more likely to be canceled.
 6. Long-stay reservations are disproportionately represented among canceled bookings.
----
 
-##**Recommendation/Action**
+---
+**Recommendation/Action**
 **
 1. Reduce the maximum advance booking period to no more than 360 days (from two years to one year).
 2. Adjust booking strategies by requiring a deposit payment of 30% of the room price at the time of reservation or shorten date for the payment
@@ -175,9 +176,9 @@ Visualization: Line chart with forecast shading
 9. Implement stricter cancellation or deposit policies between March–May.
 10. Improve customer communication by implementing automated reminders and pre-stay confirmations.
 11. Develop a machine learning model to predict booking cancellations.
----
 
-**## Impact**
+---
+## Impact**
 1. Reduces revenue loss from customers who cancel "early-booked rooms."
 2. Increases retention among high-value bookings.
 3. Reduction in cancellations from markets with unstable booking behavior.
