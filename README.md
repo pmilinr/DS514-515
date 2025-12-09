@@ -210,7 +210,7 @@ The best-performing model from the experiments was **XGBoost**.
   - `max_depth`: **13**
   - `n_estimators`: **600**
 - **Generalization:**
-  - Performance on unseen data remains strong, indicating that the model generalizes well beyond the training set (no severe overfitting observed in train vs. test curves).
+  - Performance on unseen data remains strong
 
 ---
 
@@ -219,14 +219,10 @@ The best-performing model from the experiments was **XGBoost**.
 ### 1. Data Imbalance
 
 - Only about **~20%** of bookings are cancelled (exact percentage to be confirmed), leading to a **class imbalance** problem.
-- Impact:
-  - Standard accuracy can be misleading.
-  - Minority class (cancellations) is more important for business decisions.
 
 **Next Steps:**
 
 - Experiment with imbalance-handling techniques:
-  - Class weights in XGBoost (`scale_pos_weight`)
   - Oversampling (e.g., SMOTE) or undersampling strategies.
 - Collect more examples of cancelled bookings to further strengthen the minority class signal.
 
