@@ -37,7 +37,7 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
      - **87,110 rows**
      - **30 columns**
 ---
-##**Exploratory Data Analysis (EDA)**##
+**Exploratory Data Analysis (EDA)**##
 
 ##**1. Top 10 Countries by Cancellation Rates**
 Map of top booking countries
@@ -53,7 +53,7 @@ Stacked bar chart: Canceled vs Not Canceled for Top 10 countries
 5. Countries with high cancellation propensity should be flagged as High-Risk Market Segments for more controlled booking policies.
 ---
 
-##**2. Customer Type, Market Segment, Deposit Type, and Distribution Channel**
+**2. Customer Type, Market Segment, Deposit Type, and Distribution Channel**
 
 Visualization: Multiple stacked bar charts
 
