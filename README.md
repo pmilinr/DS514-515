@@ -37,7 +37,7 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
      - **87,110 rows**
      - **30 columns**
 ---
-##Exploratory Data Analysis (EDA)##
+##Exploratory Data Analysis (EDA)
 
 ---
 **1. Top 10 Countries by Cancellation Rates**
