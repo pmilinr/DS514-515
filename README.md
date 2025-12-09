@@ -41,8 +41,10 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
 
 ---
 **1. Top 10 Countries by Cancellation Rates**
+
 Map of top booking countries
 Stacked bar chart: Canceled vs Not Canceled for Top 10 countries
+
 ![Top_10_Booking_and_cancel](https://github.com/user-attachments/assets/aaa6098b-c922-4b2a-a1ae-9fbb2c34c904)
 
 
