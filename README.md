@@ -11,6 +11,7 @@
    - Does longer lead time significantly increase the likelihood of cancellation?
    - Are price-sensitive customers (high ADR or discounts) more likely to cancel?
    - Does longer stay increase cancellation rate?
+   - 
 ![Booking_train Cancel](https://github.com/user-attachments/assets/7dbd45db-eaec-4fd8-b949-763cba5da220)
 
 ## Value Propositions
