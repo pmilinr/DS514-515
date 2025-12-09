@@ -3,6 +3,7 @@
    The hotel industry is rapidly transforming as digital platforms make booking easier and more convenient for guests. While this brings new opportunities, it also creates challenges, especially for hotels that want to reduce reliance on third-party platforms and manage bookings more efficiently. 
 
    One major issue is the rising rate of booking cancellations, which impacts revenue and room planning. This project analyzes hotel booking data to uncover the key factors driving cancellations and provide insights that help hotels improve forecasting, operations, and profitability.
+   
 ---
 ## Problem Statement & Key Questions
  1. Which countries have the highest and lowest cancellation rates among the Top 10 booking countries?
