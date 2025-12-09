@@ -80,11 +80,11 @@ Visualization: Pearson correlation table
 ![pearson](https://github.com/user-attachments/assets/2a85c52c-05b3-46f7-9dda-dd32505d12b3)
 
 **Key Findings:** 
-  Strongest relationships with cancellation: 
+  Strongest relationships with cancellation 
    1. Lead Time
-   2. ADR Total
+   2. ADR
    3. Stay in week night 
-   4. Guests 
+   4. Total Guests 
 
 ---
 **4. Lead Time vs Cancellation
