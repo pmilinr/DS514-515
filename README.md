@@ -93,7 +93,8 @@ Visualization: Multiple stacked bar charts
 
 Visualization: Pearson correlation table
 
-![pearson](https://github.com/user-attachments/assets/2a85c52c-05b3-46f7-9dda-dd32505d12b3)
+<img width="510" height="361" alt="Corre" src="https://github.com/user-attachments/assets/615c1ca4-3394-456c-83aa-68bb8dd767fb" />
+
 
 **Key Findings:** 
   Most relevant factors associated with cancellation :
