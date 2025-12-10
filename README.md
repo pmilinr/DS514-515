@@ -95,7 +95,7 @@ Visualization: Histogram + Boxplot comparing Lead Time for Canceled vs Not Cance
 
 **Key Findings:**
 1. Canceled bookings have substantially higher Lead Time compared to non-canceled bookings.
-2. Median Lead Time for Canceled ≈ 100+ days, while Not Canceled ≈ 60–70 days.
+2. The median Lead Time for canceled bookings is around 55–60 days, which is higher than the median for non-canceled bookings (approximately 35–40 days).
 3. Guests who book far in advance tend to cancel more frequently.
 4. Long lead times may indicate uncertainty or flexible travel plans, increasing likelihood of cancellation.
 
