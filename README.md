@@ -1,5 +1,4 @@
-# DS512/513 
-#"Analyzing Factors Influencing Hotel Booking Cancellations to Enhance Sales Strategy"
+# DS512/513 -- "Analyzing Factors Influencing Hotel Booking Cancellations to Enhance Sales Strategy"
 
 ## Hotel Booking - Overview
    The hotel industry is rapidly transforming as digital platforms make booking easier and more convenient for guests. While this brings new opportunities, it also creates challenges, especially for hotels that want to reduce reliance on third-party platforms and manage bookings more efficiently. 
