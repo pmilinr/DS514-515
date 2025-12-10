@@ -93,8 +93,8 @@ Visualization: Pearson correlation table
 Lead time and ADR are the most influential positive predictors of cancellation in this dataset
 
 ---
-**4. Lead Time vs Cancellation
-**
+**4. Lead Time vs Cancellation**
+
 Visualization: Histogram + Boxplot comparing Lead Time for Canceled vs Not Canceled bookings.
 
 ![Lead_time](https://github.com/user-attachments/assets/d0c9ceeb-c9f9-4bc4-9a61-d7b3a04bf02d)
@@ -173,7 +173,7 @@ Visualization: Line chart with forecast shading
 5. Hotels should adjust deposit or lead-time policies in high-risk months.
 
 ---
-**##Summarize**
+##**Summarize**
 
 **Key behavioral patterns identified:**
 1. Lead Time and ADR are the strongest predictors of cancellation.
