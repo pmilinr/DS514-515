@@ -75,7 +75,7 @@ Italy, Brazil, and Portugal show the highest cancellation rates despite high boo
 
 Visualization: Multiple stacked bar charts
 
-![Uploading Top_10_Booking_and_cancel_2.jpg…]()
+![Cancellation Factors-1](https://github.com/user-attachments/assets/70a1192f-e770-4afb-9c5a-d24528666768)
 
 
 **Key Findings:**
