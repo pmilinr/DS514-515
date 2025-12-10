@@ -32,7 +32,7 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
 
 
 ---
-## Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 ---
 ## Data Cleaning & Preparation
 - Remove:
@@ -44,6 +44,9 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
 - Result after cleaning:
      - **87,110 rows**
      - **30 columns**
+
+---
+# Visualization
 
 ---
 **1. Top 10 Countries by Cancellation Rates**
