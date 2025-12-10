@@ -109,7 +109,7 @@ Lead time and ADR are the most influential positive predictors of cancellation i
 
 Visualization: Histogram + Boxplot comparing Lead Time for Canceled vs Not Canceled bookings.
 
-![Lead_time](https://github.com/user-attachments/assets/d0c9ceeb-c9f9-4bc4-9a61-d7b3a04bf02d)
+![Lead_time](https://github.com/user-attachments/assets/35d4e9cf-bef5-47d2-a66c-ce139711d547)
 
 **Key Findings:**
 1. Canceled bookings have substantially higher Lead Time compared to non-canceled bookings.
@@ -126,7 +126,7 @@ Guests who book far in advance tend to cancel more frequently.
 Visualization: Bar chart showing average ADR for each cancellation group
 Boxplot + histogram for ADR distribution
 
-![ADR_cancel](https://github.com/user-attachments/assets/ef97f2c4-89d3-4b7e-ac8e-c25bd7a47b24)
+![ADR_cancel](https://github.com/user-attachments/assets/84dbebb9-853b-46c4-86ba-0b7d0f33f61e)
 
 **Key Findings:**
 1. Canceled bookings also peak around 70–150, but show more bookings in higher ADR ranges compared to non-canceled.
@@ -142,7 +142,7 @@ Higher ADR bookings show a higher cancellation tendency, with canceled reservati
 
 Visualization: Boxplot comparing week-night stays and Histogram of stay durations
 
-![stay_in_week_night](https://github.com/user-attachments/assets/a4bc327e-fe33-4b05-bda7-662a1c30e33a)
+![stay_in_week_night](https://github.com/user-attachments/assets/bbc85aec-98e9-401f-bcad-a5dff7cd8698)
 
 **Key Findings:**
 1. Canceled bookings also peak around 1–4 nights, similar to non-canceled.However, the distribution shows more bookings in higher night counts (5–7 nights) compared to non-canceled.
@@ -157,7 +157,8 @@ Cancellation rates rise as week-night stays increase. Long-stay bookings show th
 
 Visualization:Boxplot showing total guests vs cancellation and Histogram for group size distribution
 
-![Total guest](https://github.com/user-attachments/assets/81619434-82f6-4505-bbf2-dcd653818138)
+![Total guest](https://github.com/user-attachments/assets/ca33a7c5-d747-4421-bdb1-e527891a252c)
+
 
 **Key Findings:**
 1. Most cancellations occur among small groups (1–4 guests).
