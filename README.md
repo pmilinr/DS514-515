@@ -26,6 +26,14 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
    This dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were canceled.
 
 ---
+## Data Dictionary
+
+<img width="1001" height="1801" alt="datadic" src="https://github.com/user-attachments/assets/232618aa-c663-454a-af2b-5b6a9e709dcc" />
+
+
+---
+## Exploratory Data Analysis (EDA)
+---
 ## Data Cleaning & Preparation
 - Remove:
      - Duplicate records
@@ -36,8 +44,6 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
 - Result after cleaning:
      - **87,110 rows**
      - **30 columns**
----
-## Exploratory Data Analysis (EDA)
 
 ---
 **1. Top 10 Countries by Cancellation Rates**
