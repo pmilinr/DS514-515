@@ -86,7 +86,7 @@ Visualization: Multiple stacked bar charts
 
 **Summarize:**
 - Cancellation tendency depends heavily on: who books (customer type), how they book (distribution channel), payment conditions (deposit type)
-- The riskiest groups are: Online TAม TA/TO, Transient customers and No-refund deposit bookings
+- The riskiest groups are: Online TA, TA/TO, Transient customers and No-refund deposit bookings.
 
 ---
 **3.Correlation**
@@ -96,7 +96,7 @@ Visualization: Pearson correlation table
 ![pearson](https://github.com/user-attachments/assets/2a85c52c-05b3-46f7-9dda-dd32505d12b3)
 
 **Key Findings:** 
-  Strongest relationships with cancellation 
+  Most relevant factors associated with cancellation :
    1. Lead Time
    2. ADR
    3. Stay in week night 
