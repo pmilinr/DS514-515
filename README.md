@@ -71,6 +71,11 @@ The modeling workflow consists of five main stages:
 
 The best-performing model from the experiments was **XGBoost**.
 
+**Confusion Matrix**
+
+![Confusion Matrix](img/ds/XGmodel_confusion_matrix.png)
+
+
 - **Accuracy:** **0.85** (highest among tested models)
 - **Recall (Cancellation Class = 1):** **0.67** (highest among all models)
 - **Key Hyperparameters (optimized via GridSearchCV):**
@@ -79,6 +84,8 @@ The best-performing model from the experiments was **XGBoost**.
   - `n_estimators`: **600**
 - **Generalization:**
   - Performance on unseen data remains strong
+
+    ![Unseen Performance](img/ds/unseen_data.png)
 
 ---
 
@@ -110,16 +117,6 @@ The best-performing model from the experiments was **XGBoost**.
 
 ---
 
-## Visual Results
-
 **Model Performance Curves**
 
 ![Train vs Test Performance](img/ds/train_test_curve.png)
-
-**Confusion Matrix**
-
-![Confusion Matrix](img/ds/XGmodel_confusion_matrix.png)
-
-**Unseen Data Evaluation**
-
-![Unseen Performance](img/ds/unseen_data.png)
