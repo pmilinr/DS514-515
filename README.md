@@ -12,8 +12,10 @@
    - Does longer lead time significantly increase the likelihood of cancellation?
    - Are price-sensitive customers (high ADR or discounts) more likely to cancel?
    - Does longer stay increase cancellation rate?
+One major issue is the rising rate of booking cancellations, which impacts revenue and room planning. This project analyzes hotel booking data to uncover the key factors driving cancellations and provide insights that help hotels improve forecasting, operations, and profitability.
 
-![Booking_train Cancel](https://github.com/user-attachments/assets/7dbd45db-eaec-4fd8-b949-763cba5da220)
+![booking and revenue](https://github.com/user-attachments/assets/ee53147b-242e-43e1-99e1-ffd6d6b1a16f)
+
 
 ---
 ## Value Propositions
