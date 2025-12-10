@@ -46,7 +46,7 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
      - **30 columns**
 
 ---
-# Visualization
+# Data Analysis & Key Findings
 
 ---
 **1. Top 10 Countries by Cancellation Rates**
