@@ -15,7 +15,7 @@
    - Does longer stay increase cancellation rate?
      
 
-The chart shows the revenue impact caused by booking cancellations.
+                                  The chart shows the revenue impact caused by booking cancellations.
 ![booking and revenue](https://github.com/user-attachments/assets/ee53147b-242e-43e1-99e1-ffd6d6b1a16f)
 
 
