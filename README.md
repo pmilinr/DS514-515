@@ -58,8 +58,7 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
 Map of top booking countries
 Stacked bar chart: Canceled vs Not Canceled for Top 10 countries
 
-![Top_10_Booking_and_cancel](https://github.com/user-attachments/assets/aaa6098b-c922-4b2a-a1ae-9fbb2c34c904)
-
+![Top_10_Booking_and_cancel_2](https://github.com/user-attachments/assets/4a9f0cae-cc77-4eea-bd25-155c4f42e63e)
 
 **Key Findings:**
 1. Brazil, Italy, and Portugal show the highest cancellation ratios (≥30%).
