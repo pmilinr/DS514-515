@@ -173,21 +173,23 @@ Visualization: Line chart with forecast shading
 5. Hotels should adjust deposit or lead-time policies in high-risk months.
 
 ---
-##**Summarize**
+## **Summarize**
 
 **Key behavioral patterns identified:**
-1. Lead Time and ADR are the strongest predictors of cancellation.
-2. Small groups and transient customers cancel more frequently.
-3. Online Travel Agencies and non-refundable bookings have the highest cancellation risks.
-4. Seasonal patterns show cancellation clusters during March–May.
-5. High-value bookings (high ADR) are more likely to be canceled.
-6. Long-stay reservations are disproportionately represented among canceled bookings.
+1. It was found that as the lead time increases, the likelihood of a booking being canceled also rises.
+2. A higher Average Daily Rate (ADR) also tends to increase the chance that customers will cancel their reservations.
+3. Countries with the highest cancellation rates include Italy, Brazil, and Portugal.
+4. Small groups and transient customers cancel more frequently.
+5. Online Travel Agencies and non-refundable bookings have the highest cancellation risks.
+6. Seasonal patterns show cancellation clusters during March–May.
+7. High-value bookings (high ADR) are more likely to be canceled.
+8. Long-stay reservations are disproportionately represented among canceled bookings.
 
 ---
-**Recommendation/Action**
-**
+## **Recommendation/Action**
+
 1. Reduce the maximum advance booking period to no more than 360 days (from two years to one year).
-2. Adjust booking strategies by requiring a deposit payment of 30% of the room price at the time of reservation or shorten date for the payment
+2. Adjust booking strategies by requiring a 30% deposit at the time of reservation or shortening the payment deadline, especially for high-risk segments such as OTA bookings, long lead-time reservations, high-ADR bookings, and guests fr
 3. Provide flexible pricing or perks for high-ADR bookings to reduce price sensitivity.
 4. Apply stricter cancellation or deposit policies to countries with historically high cancellation rates.
 5. Negotiate terms with OTAs for stricter cancellation rules.
@@ -202,7 +204,7 @@ Visualization: Line chart with forecast shading
 12. Develop a machine learning model to predict booking cancellations.
 
 ---
-## Impact**
+## **Impact**
 1. Reduces revenue loss from customers who cancel "early-booked rooms."
 2. Increases retention among high-value bookings.
 3. Reduction in cancellations from markets with unstable booking behavior.
