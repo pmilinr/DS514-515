@@ -76,7 +76,8 @@ Italy, Brazil, and Portugal show the highest cancellation rates despite high boo
 
 Visualization: Multiple stacked bar charts
 
-![Cancellation Factors](https://github.com/user-attachments/assets/e1cde0f0-cff9-4342-920b-8d0227d1f081)
+![Uploading Top_10_Booking_and_cancel_2.jpg…]()
+
 
 **Key Findings:**
 1. Customer Type: Transient customers have the highest cancellation rate (≈30%).
