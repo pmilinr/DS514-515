@@ -194,9 +194,12 @@ Visualization: Line chart with forecast shading
 6. Offer direct-booking benefits to shift customers from OTA channels.
 7. Require partial prepayment for reservations > 7 nights.
 8. Provide stay packages or discounts to lock in longer stays.
-9. Implement stricter cancellation or deposit policies between March–May.
-10. Improve customer communication by implementing automated reminders and pre-stay confirmations.
-11. Develop a machine learning model to predict booking cancellations.
+9. March–May is a critical risk window for revenue loss.
+    - Shortening payment deadlines
+    - Implementing stricter deposit requirements
+    - Offering price incentives to secure bookings earlier
+11. Improve customer communication by implementing automated reminders and pre-stay confirmations.
+12. Develop a machine learning model to predict booking cancellations.
 
 ---
 ## Impact**
