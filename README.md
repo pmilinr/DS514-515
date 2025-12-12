@@ -5,6 +5,25 @@
 
 This project builds a predictive model to estimate whether a hotel booking will be cancelled, enabling better demand forecasting and inventory management.
 
+## Data Source  
+Kaggle Notebook: “EDA of bookings and ML to predict cancelations”  
+Source link: https://www.kaggle.com/code/marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations
+- **Total Rows:** 119,390 records  
+- **Total Columns:** 32 features  
+
+### Description  
+The dataset contains hotel booking information from **two hotels in Portugal**:  
+- Resort Hotel (Algarve)  
+- City Hotel (Lisbon)
+
+It includes bookings with arrival dates between:  
+**July 1, 2015 – August 31, 2017**
+
+These records cover customer booking details, cancellations, demographics, market segments, seasonal patterns, and more.
+
+### Data Dictionary  
+![Workflow](img/ds/data_dictionary.png)
+
 ---
 
 ## End-to-End Workflow
