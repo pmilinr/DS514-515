@@ -7,7 +7,7 @@ This project builds a predictive model to estimate whether a hotel booking will 
 
 ## Data Source  
 Kaggle Notebook: “EDA of bookings and ML to predict cancelations”  
-Source link: https://www.kaggle.com/code/marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations
+Source link: https://www.kaggle.com/datasets/mojtaba142/hotel-booking
 - **Total Rows:** 119,390 records  
 - **Total Columns:** 32 features  
 
