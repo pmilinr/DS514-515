@@ -46,7 +46,7 @@ The modeling workflow consists of five main stages:
      - `agent`
      - `company`
    - Result after cleaning:
-     - **87,110 rows**
+     - **87,108 rows**
      - **30 columns**
 
 3. **Feature Engineering & Selection**
@@ -59,7 +59,7 @@ The modeling workflow consists of five main stages:
      - **Target:** `is_canceled`
      - **Features:** All remaining columns except `is_canceled`
    - Shape after feature selection:
-     - **87,110 rows**
+     - **87,108 rows**
      - **29 columns**
 
 4. **Modeling**
